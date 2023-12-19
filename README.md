@@ -6,8 +6,8 @@ I am a first-year student studying programming. I am interested in low-level pro
 
 Skills: C++ | Python
 
-- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning object-oriented programming 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SomethingWF)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/VLAwesome)  
 
