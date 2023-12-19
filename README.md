@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Valdimir
+#### I am a student at NUST MISIS in the field of Computer Science and Computer Engineering.
 
-<!--
-**SomethingWF/SomethingWF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a first-year student studying programming. I am interested in low-level programming and the internal structure of computers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: C++ | Python
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
